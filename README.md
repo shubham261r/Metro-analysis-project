@@ -63,15 +63,9 @@ To run this project on your local machine, follow these steps:
 
 4.  **Place the dataset `Delhi Metro Network new.csv` in the same directory as the notebook.**
 
-5.  **Launch Jupyter Notebook and open `Metro1.ipynb`:**
+5.  **Launch Jupyter Notebook and open `Metro_Analysis.ipynb`:**
     ```bash
-    jupyter notebook Metro1.ipynb
+    jupyter notebook Metro_Analysis.ipynb
     ```
 
 6.  **Run the cells in the notebook.** The `folium` map will be saved as `delhi_metro_map.html` in the project directory and will automatically open in your web browser. The `plotly` visualizations will be displayed directly within the notebook.
-
-## 📁 File Structure
-.
-├── Delhi Metro Network new.csv   # The dataset file
-├── Metro1.ipynb                  # The main Jupyter Notebook with all the analysis
-└── README.md                     # This README file
