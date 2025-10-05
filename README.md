@@ -4,7 +4,7 @@ This project provides a comprehensive analysis of the Delhi Metro network using 
 
 ## 📈 Features & Analysis
 
-The Jupyter Notebook (`Metro1.ipynb`) performs the following analyses:
+The Jupyter Notebook (`Metro_Analysis.ipynb`) performs the following analyses:
 
 1.  **Geospatial Mapping**:
     * An interactive map of the entire Delhi Metro network is generated using `folium`.
