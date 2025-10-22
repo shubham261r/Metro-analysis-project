@@ -1,6 +1,6 @@
 # Delhi Metro Network Analysis and Visualization
 
-This project provides a comprehensive analysis of the Delhi Metro network using Python. It leverages libraries like `pandas` for data manipulation, and `Plotly` and `Folium` for creating insightful, interactive visualizations. The analysis explores the network's growth over time, characteristics of its various lines, and the connectivity provided by interchange stations.
+This project provides a comprehensive analysis of the Delhi Metro network using Python. It leverages libraries like `pandas` for data manipulation, and `matplotlib` and `Folium` for creating insightful, interactive visualizations. The analysis explores the network's growth over time, characteristics of its various lines, and the connectivity provided by interchange stations.
 
 ## 📈 Features & Analysis
 
@@ -44,7 +44,7 @@ The analysis is based on the `Delhi Metro Network new.csv` dataset. The key colu
 
 * **Python**: The core programming language.
 * **pandas**: For data loading, cleaning, and manipulation.
-* **plotly**: For creating interactive charts and graphs.
+* **matplotlib**: For creating interactive charts and graphs.
 * **folium**: For generating the interactive geographical map.
 * **Jupyter Notebook**: For organizing and running the analysis code.
 
@@ -58,7 +58,7 @@ To run this project on your local machine, follow these steps:
 
 3.  **Install the required libraries:**
     ```bash
-    pip install pandas plotly folium
+    pip install pandas matplotlib folium
     ```
 
 4.  **Place the dataset `Delhi Metro Network new.csv` in the same directory as the notebook.**
